@@ -1,0 +1,16 @@
+.embrace-card {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
+	padding: 10px;
+	width: 90%;
+}
+.embrace-card-main {
+	display: flex;
+	justify-content: center;
+}
+.embrace {
+	background-color: #f3f5f7;
+	padding: 10px;
+}

@@ -1,0 +1,17 @@
+.beyoucard-wrapper {
+	background-color: #fff;
+	height: 370px;
+}
+.beyoucards {
+	padding: 8px;
+}
+.beyoucards-image > img {
+	padding: 5px;
+}
+.beyoucards-title {
+	font-size: 18px;
+}
+.beyoucards-image > img {
+	height: 291px;
+	width: 264px;
+}

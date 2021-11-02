@@ -1,0 +1,30 @@
+.contact__location,
+.contact__email,
+.contact__phone {
+	display: flex;
+	flex-direction: row;
+	max-width: 350px;
+}
+.location__icon,
+.email__icon,
+.phone__icon {
+	margin-top: 17px;
+	margin-right: 15px;
+}
+.contact {
+	display: flex;
+	flex-direction: column;
+}
+h3 {
+	font-family: sans-serif;
+	color: #444;
+	font-size: 30px;
+	padding-bottom: 7px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid gray;
+}
+.contact > p {
+	font-size: 15px;
+	color: #444;
+	font-family: sans-serif;
+}

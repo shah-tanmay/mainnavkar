@@ -1,0 +1,21 @@
+* {
+	font-family: sans-serif;
+}
+
+.card-container {
+	background-color: #f3f5f7;
+	padding-top: 10px;
+}
+.brandcards {
+	display: flex;
+	flex-direction: row;
+	max-width: 100%;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.card-containers {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	width: 100%;
+}

@@ -1,0 +1,24 @@
+.newsletter__text > p {
+	font-size: 20px;
+}
+.newsletter__input > input {
+	height: 30px;
+}
+.newsletter__input > button {
+	margin-top: 4px;
+}
+.input__button {
+	height: 36.5px;
+	background-color: rgb(32, 32, 32) !important;
+	border: 1px solid rgb(32, 32, 32);
+	margin-left: -2px;
+}
+.newsletter__input {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding-top: 20px;
+}
+.send {
+	color: #fff;
+}

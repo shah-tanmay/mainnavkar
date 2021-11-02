@@ -1,0 +1,17 @@
+.beyou-card {
+	display: flex;
+	flex-wrap: wrap;
+	width: 94%;
+	justify-content: space-between;
+}
+.beyou-card-main {
+	display: flex;
+	justify-content: center;
+}
+.beyou {
+	background-color: #f3f5f7;
+	padding: 10px;
+}
+.subheading {
+	color: gray;
+}

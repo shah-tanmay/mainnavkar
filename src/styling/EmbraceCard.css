@@ -1,0 +1,16 @@
+.embraceCard-image > img {
+	height: 291px;
+	width: 264px;
+	padding: 5px;
+}
+.embraceCard {
+	padding: 10px;
+}
+.embraceCard-main {
+	background-color: #fff;
+	height: 370px;
+}
+.embraceCard-title {
+	font-size: 18px;
+	padding-bottom: 15px;
+}

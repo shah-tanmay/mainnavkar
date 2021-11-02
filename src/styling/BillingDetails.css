@@ -1,0 +1,25 @@
+.billing-deatils-heading > p {
+	font-size: 25px;
+	color: rgb(146, 145, 145);
+}
+.billing-form-text {
+	font-size: 20px;
+	color: black;
+}
+.billing-form-input {
+	background-color: rgb(238, 237, 237);
+	border: none;
+	height: 40px;
+	width: 400px;
+	padding: 5px;
+	font-size: 17px;
+}
+.billing-address-input {
+	height: 100px !important;
+}
+.billing-details {
+	flex-direction: column !important;
+}
+.billing-details-form > div {
+	padding: 10px;
+}

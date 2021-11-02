@@ -1,0 +1,12 @@
+.sliderimg {
+	margin-top: 20px;
+	width: 90%;
+	height: 400px;
+	object-fit: cover;
+	margin-left: 50px;
+}
+.alice-carousel__prev-btn-wrapper,
+.alice-carousel__next-btn-wrapper {
+	position: absolute;
+	display: none !important;
+}

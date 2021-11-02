@@ -1,0 +1,11 @@
+.categories__list > ul > li {
+	font-size: 15px;
+	padding-bottom: 3px;
+	margin-left: -30px;
+}
+.categories__list {
+	max-width: 350px;
+}
+.categories__list > ul > li {
+	list-style-type: none;
+}

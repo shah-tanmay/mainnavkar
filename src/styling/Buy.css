@@ -1,0 +1,12 @@
+.buy {
+	display: flex;
+	justify-content: space-around;
+}
+.buy-billing-details {
+	/* background-color: red; */
+	width: 85%;
+}
+.buy-order-details {
+	/* background-color: yellow; */
+	width: 75%;
+}

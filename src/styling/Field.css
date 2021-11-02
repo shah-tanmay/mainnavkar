@@ -1,0 +1,31 @@
+.field {
+	display: flex;
+	justify-content: center;
+}
+.field__attributes > ul {
+	list-style-type: none;
+	text-decoration: none;
+	min-width: 100%;
+}
+.field__attributes {
+	width: 100%;
+}
+.field__attributes > ul > li {
+	display: inline;
+	padding: 30px;
+	font-size: 18px;
+	font-family: sans-serif;
+}
+.hide {
+	display: none;
+}
+
+.absolute {
+	position: absolute;
+}
+.field-main {
+	min-width: 100%;
+	display: flex;
+	justify-content: center;
+	border-bottom: 1px solid lightgray;
+}

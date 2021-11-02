@@ -1,0 +1,8 @@
+.trendingcard-title {
+	font-size: 16px;
+	font-weight: 700;
+}
+.trendingcard-image > img {
+	height: 302px;
+	width: 274px;
+}

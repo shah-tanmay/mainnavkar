@@ -1,0 +1,28 @@
+.brand-cards {
+	padding: 15px 10px;
+	max-width: 100%;
+	flex-basis: 100%;
+	background-color: #fff;
+	text-align: left !important;
+}
+.cards {
+	padding: 10px;
+	max-width: 100%;
+	border: none;
+	box-shadow: 0 2px 7px 0 rgb(222 222 222 / 50%);
+}
+.small-brand-image {
+	max-width: 100%;
+	padding-right: 0px;
+}
+.brand-image {
+	display: flex;
+	justify-content: flex-start;
+}
+.brand-image > img {
+	min-width: 100%;
+}
+.brand-image > img {
+	height: 229px;
+	width: 349px;
+}

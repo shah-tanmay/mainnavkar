@@ -1,0 +1,29 @@
+.furnishing-table > table > tr {
+	padding: 100px;
+	text-align: left;
+}
+.furnishing-table > td {
+	padding: 30px;
+}
+.furnishing-table > table {
+	border-collapse: collapse;
+	font-size: 16px;
+}
+th,
+td {
+	padding: 10px;
+	padding-right: 40px;
+}
+th:nth-child(odd) {
+	background-color: #fff;
+}
+
+th:nth-child(even) {
+	background-color: #f5f5f5;
+}
+.white {
+	background-color: white;
+}
+.grey {
+	background-color: #f5f5f5;
+}
